@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'home.dart';
+import 'ui/movie/list/list_base.dart';
+
+
 
  
 void main() => runApp(MyApp());
